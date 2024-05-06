@@ -59,6 +59,7 @@ endmodule
 
  
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/K-PRAVEEN-2005/D-FLIPDLOP-NEGEDGE/assets/145742724/6fab3277-de54-4e0d-808a-5aa1b9cb2b95)
 
 
@@ -68,4 +69,6 @@ endmodule
 
 
 **RESULTS**
+
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
